@@ -1,0 +1,13 @@
+III. Title: Search for results from a specific time 
+
+Environment: https://www.google.com/
+
+Steps:
+1. Type into the input search: prowly. 
+2. Click the enter or search icon. 
+3. Click on the button “tools”. 
+4. Select in a time dropdown option “Past month”.
+5. Check if the search results are from last month.
+
+Expected result:
+The search results are from the last month. 

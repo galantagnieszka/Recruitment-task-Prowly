@@ -1,4 +1,4 @@
-I. Title: Search for video results that contain a selected word on a particular site with a chosen duration.
+I. Title: Search for video results that contain a selected word on a particular site with a chosen duration
 
 Environment: https://www.google.com/
 
