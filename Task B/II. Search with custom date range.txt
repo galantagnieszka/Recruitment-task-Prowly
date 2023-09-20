@@ -1,0 +1,14 @@
+II. Title: Search with custom date range
+
+Environment: https://www.google.com/
+
+Steps:
+1. Type into the search input: prowly.
+2. Click the enter or search icon. 
+3. Click on the button “tools”.
+4. In a dropdown related to the time select the option “custom range”.
+5. In a calendar/inputs select/type a range from: 7/1/2023 to: 7/31/2023.
+6. Check if the searched results are from this range. 
+
+Expected result:
+The search results are from the appropriate date range.
