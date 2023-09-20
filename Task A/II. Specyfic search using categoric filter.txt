@@ -1,0 +1,12 @@
+II.  Title: Specyfic search using categoric filter 
+
+Environment: https://www.google.com/
+
+Steps:
+1. Go to the site: google.com.
+2. Type into the search input: “prowly” (put a word in quotes to find pages with this accurate word). 
+3. Click on the “news” filter.
+4. Check some links if they contain the searched word. 
+
+Expected results:
+After using the filter “news”, only news are visible to the user and results must contain the exact searched word. 
