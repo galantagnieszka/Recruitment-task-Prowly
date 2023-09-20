@@ -1,0 +1,12 @@
+III. Title: Search images with a specific hashtag
+
+Environment: https://www.google.com/
+
+Steps: 
+1. Type into the search input: “#prowly” (put hashtag into quotes).
+2. Click the enter or search icon. 
+3. Click on the ‘images’ filter to find all images which contain the specific hashtag. 
+4. Check if the searched phrase gives a user proper results.
+
+Expected results:
+Searching must shows images with the specific hashtag.
