@@ -1,0 +1,15 @@
+I. Title: Search recent results sorted by date
+
+Environment: https://www.google.com/
+
+Steps:
+1. Type into the search input: prowly.
+2. Click the enter or search icon.
+3. Choose the filter “News”. 
+4. Click on the button “tools”.
+5. In a filter “sorted by” choose “date”.
+6. In a filter with time select “Recent”. 
+7. Check if selected filters are applied properly. 
+
+Expected result:
+Searching should show results sorted by date from the newest. 
