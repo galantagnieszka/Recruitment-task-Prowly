@@ -1,0 +1,12 @@
+I. Title: Search for video results that contain a selected word on a particular site with a chosen duration.
+
+Environment: https://www.google.com/
+
+Steps:
+1. Type into the search input: site:youtube.com prowly
+2. Click the enter or search icon.
+3. Click on the “Video” filter. 
+4. Select in a dropdown duration: "Short (0-4 min.).
+
+Expected results:
+The search shows videos on the portal YouTube containing the proper word in the title/URL/description, etc. and the duration is between 0-4 min. 
